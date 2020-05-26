@@ -4,7 +4,14 @@
 **Tecnologia**
 
 >>Este projete foi desenvolvido utilizando dotnet core V3.1
->>que pode ser encontrado no link https://dotnet.microsoft.com/download
+
+>>Que pode ser encontrado no link https://dotnet.microsoft.com/download
+
+# Execução de shell script
+
+>>Para incluir o arquivo com os dados executar via comando o script TravelRoute.sh passando por parametro o caminho e arquivo ex. TravelRoute.sh [caminho]/input-file.txt
+
+>>Caso ocorra algum problema, o arquivo pode ser incuido manualmente na pasta TravelRoute/TravelRoute.WebApi/Resources e TravelRoute/TravelRoute.Repository/Resources, com o nome input-file.txt
 
 # Execução de testes
 
