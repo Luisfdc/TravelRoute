@@ -1,0 +1,9 @@
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\bin\Debug\netcoreapp2.2\TravelRoute.Console.deps.json
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\bin\Debug\netcoreapp2.2\TravelRoute.Console.runtimeconfig.json
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\bin\Debug\netcoreapp2.2\TravelRoute.Console.runtimeconfig.dev.json
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\bin\Debug\netcoreapp2.2\TravelRoute.Console.dll
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\obj\Debug\netcoreapp2.2\TravelRoute.Console.csprojAssemblyReference.cache
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\obj\Debug\netcoreapp2.2\TravelRoute.Console.AssemblyInfoInputs.cache
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\obj\Debug\netcoreapp2.2\TravelRoute.Console.AssemblyInfo.cs
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\obj\Debug\netcoreapp2.2\TravelRoute.Console.genruntimeconfig.cache
+C:\Users\camil\Google Drive\teste\test\TravelRoute\TravelRoute.Console\obj\Debug\netcoreapp2.2\TravelRoute.Console.csproj.CoreCompileInputs.cache

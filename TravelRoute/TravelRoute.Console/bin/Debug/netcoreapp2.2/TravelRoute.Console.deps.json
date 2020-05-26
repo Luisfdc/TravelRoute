@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "TravelRoute.Console/1.0.0": {
+        "runtime": {
+          "TravelRoute.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravelRoute.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
